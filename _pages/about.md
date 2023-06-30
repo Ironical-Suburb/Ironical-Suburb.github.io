@@ -1,10 +1,10 @@
 Hi there! I'm Priyanshu, Third Year university student at the University of Alberta currently pursuing a Bachelor of Science degree. I am highly motivated, detail-oriented, and dedicated to meeting aggressive timelines and achieving my goals. With strong analytical and organizational skills, I am working towards being well-equipped to excel in the industry.
 
-Skills:
+** Skills: ** 
 
 Proficient in MS Office and Google Workspace Software Testing and Validation Python Programming Analytical Thinking SQL Data Entry
 
-Professional Experience:
+** Professional Experience: ** 
 
 Kitchen And Bath Sales Associate, The Home Depot, Edmonton, AB (May 2022 - December 2022): At The Home Depot, I thrived in a fast-paced environment, maintaining high energy and enthusiasm. I worked flexible hours, including night shifts, weekends, and holidays. Interacting with over 50-100 customers and handling phone calls daily, I ensured their satisfaction by addressing their needs and resolving concerns. I also organized store racks and shelves to enhance the visual appeal and promote specific merchandise.
 
