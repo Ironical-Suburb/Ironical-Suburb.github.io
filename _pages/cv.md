@@ -12,16 +12,17 @@ redirect_from:
 Professional Summary
 ================
 
-Energetic university student with upcoming Bachelor of Science degree. Detail-oriented and motivated to
+Third Year university student at the University of Alberta with an upcoming Bachelor of Science degree. Detail-oriented and motivated to
 stay on task, meet aggressive timelines and accomplish goals. Strong analytical and organizational skills
-within industry.
+within the industry.
 
 Skills
 ===========
 
-MS office and Google Workspace Software Testing and Validation
+MS Office
+Google Workspace Software 
+Testing and Validation
 Python Knowledge Analytical Thinking
-Sales initiatives and techniques Deadline Adherence
 SQL and C Knowledge
 Data Entry
 
@@ -34,8 +35,8 @@ The Home Depot
 
 Edmonton, AB
 
-Maintained energy and enthusiasm in fast-paced environment.
-Worked flexible hours across night, weekend and holiday shifts.
+Maintained energy and enthusiasm in a fast-paced environment.
+Worked flexible hours across the weekend and holiday shifts.
 Interacted and managed over 50-100 customers and phones calls per day
 Maintained customer satisfaction with forward-thinking strategies focused on addressing customer
 needs and resolving concerns.
@@ -48,7 +49,7 @@ Edmonton, AB
 
 Conducted surveys and documented all responses.
 Gathered and submitted observational information in addition to required data points.
-Increased data-entry productivity by 10% with help of maintaining detailed logs of data projects,
+Increased data-entry productivity by 10% with the help of maintaining detailed logs of data projects,
 identifying issues and improving them.
 Uploaded or transmitted data using secure protocols.
 
@@ -74,13 +75,13 @@ Completed professional development in subjects of Math, Physics and Chemistry.
 Additional Information
 ======================
 
-Participated in different Model UNs over the period of Two Years and was an active member of a NGO
+Participated in different Model UNs over the period of Two Years and was an active member of an NGO
 (Garh Chetna) for a period of over 3 years.
 Reference: BHAGWATI PRASAD, bhagwatiprasad4142@gmail.com (Garh Chetna)
 
 Certifications
 ==============
 
-SQL For Data Science by University of California, Davis
+SQL For Data Science by the University of California, Davis
 Work Smarter with Microsoft Office
 C for Everyone: Programming Fundamentals
