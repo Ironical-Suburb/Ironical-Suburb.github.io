@@ -12,7 +12,12 @@ Hi there! I'm Priyanshu, Third Year university student at the University of Albe
 Skills:
 ======
 
-Proficient in MS Office and Google Workspace Software Testing and Validation Python Programming Analytical Thinking SQL Data Entry
+Proficient in MS Office and Google Workspace
+Software Testing and Validation
+Python Programming
+Analytical Thinking
+SQL
+Data Entry
 
 Professional Experience:
 =======================
@@ -43,6 +48,8 @@ I can provide a reference upon request. Please reach out to me via email or phon
 Certifications:
 ==============
 
-SQL For Data Science by the University of California, Davis Work Smarter with Microsoft Office C for Everyone: Programming Fundamentals
+SQL For Data Science by the University of California,Davis 
+Work Smarter with Microsoft Office
+C for Everyone: Programming Fundamentals
 
 That's a brief overview of my background and experiences. I am excited about the possibilities ahead and eager to continue growing both personally and professionally.
