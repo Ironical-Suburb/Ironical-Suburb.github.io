@@ -9,79 +9,82 @@ redirect_from:
 
 {% include base_path %}
 
-Professional Summary
-================
+Contact Information:
+=============================
 
-Third Year university student at the University of Alberta with an upcoming Bachelor of Science degree. Detail-oriented and motivated to
-stay on task, meet aggressive timelines and accomplish goals. Strong analytical and organizational skills
-within the industry.
+Email: pusola@ualberta.ca
+Phone: (825)-966-1673
+LinkedIn: https://www.linkedin.com/in/priyanshu-pusola-642b74241/
 
-Skills
-===========
+Professional Summary:
+========================
+Third-year University of Alberta student pursuing a Bachelor of Science in Computer Science with a minor in Economics and Business. Detail-oriented, with strong analytical and organizational skills. Proven ability in managing tasks, meeting aggressive timelines, and achieving goals. Experienced in customer service, data collection, and software development.
 
-MS Office
-Google Workspace Software 
-Testing and Validation
-Python Knowledge Analytical Thinking
-SQL and C Knowledge
-Data Entry
+Skills:
+========================
+Proficiency in MS Office and Google Workspace
+Experience in software testing and validation
+Knowledge of Python, SQL, and C programming languages
+Strong analytical thinking and data entry skills
 
-Professional Experience
-=======================
+Professional Experience:
+============================
 
-May 2022 –
-Kitchen And Bath Sales Associate December 2022
-The Home Depot
+Kitchen And Bath Sales Associate
+The Home Depot, Edmonton, AB
+May 2022 – November 2022
 
+Managed customer interactions and queries, handling 50-100 customers and phone calls daily.
+Maintained store visual appeal and organized merchandise.
+Ensured customer satisfaction through effective strategies and problem resolution.
+SWE Intern
+
+NewGen Software Limited, Edmonton, AB
+June 2023 - August 2023
+
+Data Collector and Search Engine Evaluator (Freelance)
 Edmonton, AB
+September 2022 - December 2022
 
-Maintained energy and enthusiasm in a fast-paced environment.
-Worked flexible hours across the weekend and holiday shifts.
-Interacted and managed over 50-100 customers and phones calls per day
-Maintained customer satisfaction with forward-thinking strategies focused on addressing customer
-needs and resolving concerns.
-Organized racks and shelves to maintain store visual appeal, engage customers and promote specific
-merchandise.
-Data Collector and Search Engine Evaluator September 2022 - Present
-Freelancing
+Conducted surveys and documented responses.
+Increased data-entry productivity by 10% through detailed logging and issue identification.
+Ensured data security through the use of secure transmission protocols.
+Volunteer Experience:
 
-Edmonton, AB
+Garh Chetna
+Faridabad, Haryana
+March 2017 - January 2020
 
-Conducted surveys and documented all responses.
-Gathered and submitted observational information in addition to required data points.
-Increased data-entry productivity by 10% with the help of maintaining detailed logs of data projects,
-identifying issues and improving them.
-Uploaded or transmitted data using secure protocols.
+Assisted in organizing and planning events.
+Maintained facilities and provided interpersonal communication support.
 
-Volunteer Mar 2017 - Jan 2020 Garh Chetna Faridabad, Haryana
-Assisted with special events or programs.
-Maintained clean, neat and operational facilities to serve program needs.
-Used strong interpersonal communication skills to convey information to others.
-Supported engaging, fun and smooth-running events by helping with organization and planning.
+Education:
+=========================
+Bachelor of Science in Computer Science
+University of Alberta, Edmonton, AB
+Expected in April 2026
+International Student Scholarship and Country Scholarship recipient.
+Minor in Economics and Business.
 
-Education
-=========
+High School Diploma
+Modern Vidya Niketan, Faridabad
+May 2021
 
-Bachelor of Science: Computer Science Expected in Apr 2026
-UNIVERSITY OF ALBERTA Edmonton, AB
-• Awarded International Student Scholarship and International Country Scholarship.
-• Working towards an Economics and Business Minor.
+Final Grade: 4.0
+Focused studies in Math, Physics, and Chemistry.
 
-High School Diploma May 2021
-MODERN VIDYA NIKETAN Faridabad
-Received a Final Grade of 4.0
-Completed professional development in subjects of Math, Physics and Chemistry.
+Certifications:
+==========================
 
-Additional Information
-======================
-
-Participated in different Model UNs over the period of Two Years and was an active member of an NGO
-(Garh Chetna) for a period of over 3 years.
-Reference: BHAGWATI PRASAD, bhagwatiprasad4142@gmail.com (Garh Chetna)
-
-Certifications
-==============
-
-SQL For Data Science by the University of California, Davis
+SQL For Data Science (University of California, Davis)
 Work Smarter with Microsoft Office
 C for Everyone: Programming Fundamentals
+
+Additional Information:
+===============================
+Participated in Model United Nations for two years.
+Active member of Garh Chetna NGO for over three years.
+
+References:
+===========================
+Available upon request.
